@@ -1,3 +1,9 @@
+---
+title: Stories
+layout: default
+---
+
+
 # Community
 
 Welcome to the Storytelling Project community.
