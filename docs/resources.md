@@ -1,3 +1,9 @@
+---
+title: Stories
+layout: default
+---
+
+
 # Resources
 
 Curated materials on storytelling and advanced communication.
