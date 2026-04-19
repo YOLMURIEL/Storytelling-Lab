@@ -1,3 +1,9 @@
+---
+title: Stories
+layout: default
+---
+
+
 # Storytelling Project
 
 Creative short stories written in English (C2 level) to explore
