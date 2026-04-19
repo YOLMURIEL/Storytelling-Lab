@@ -10,7 +10,8 @@ Creative short stories written in English (C2 level) to explore
 storytelling, communication, leadership, and entrepreneurship.
 
 ## Explore
-- [Community](community.md)
-- [Events](events.md)
-- [Resources](resources.md)
-- [Stories](stories.md)
+- community.html
+- events.html
+- resources.html
+- stories.html
+
