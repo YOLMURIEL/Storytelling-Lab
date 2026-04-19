@@ -1,3 +1,9 @@
+---
+title: Stories
+layout: default
+---
+
+
 # Events
 
 This project hosts live and asynchronous events related to storytelling.
