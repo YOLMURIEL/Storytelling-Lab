@@ -19,7 +19,7 @@ in storytelling as a tool for communication, leadership, and innovation.
 
 ---
 
-## 📚 Stories Completed
+##  Stories Completed
 
 ### 2026
 - **The Room That Learned How to Erase You** – 16/01/2026  
@@ -47,7 +47,7 @@ in storytelling as a tool for communication, leadership, and innovation.
 
 ---
 
-## 🌍 Open Access & License
+##  Open Access & License
 
 All stories are written by **Yolanda Muriel** and published under:
 
@@ -55,11 +55,11 @@ All stories are written by **Yolanda Muriel** and published under:
 (CC BY-NC-ND 3.0)**
 
 Stories are also available at:  
-👉 https://yolandamuriel.com/category/business-school/
+ https://yolandamuriel.com/category/business-school/
 
 ---
 
-## 👥 Community & Subscription
+##  Community & Subscription
 
 If you want to:
 - Follow new stories
@@ -67,13 +67,13 @@ If you want to:
 - Attend live events
 - Learn storytelling techniques
 
-➡️ **Click “Watch” on this repository**  
-➡️ Participate in **Discussions**  
-➡️ Check the **Events** section
+ **Click “Watch” on this repository**  
+ Participate in **Discussions**  
+ Check the **Events** section
 
 ---
 
-## 🚀 Purpose of This Repository
+##  Purpose of This Repository
 
 This project serves as a creative laboratory to test how storytelling can enhance:
 - Professional presentations
