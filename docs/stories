@@ -1,0 +1,80 @@
+# Stories
+
+This section gathers all short stories created within the **Storytelling Project**.
+
+Stories are written primarily in **English (C2 level)** and occasionally include
+French or Chinese references.
+
+They explore themes such as identity, memory, time, doubt, leadership,
+and human perception — always through narrative experimentation.
+
+---
+
+## 📚 Story Index
+
+### 2026
+- **The Room That Learned How to Erase You**  
+  _16 January 2026_
+
+- **I Never Slept Better Again**  
+  _11 January 2026_
+
+---
+
+### 2025
+- **The White Hand**  
+  _03 January 2026_
+
+- **The Parchment That Should Not Have Run**  
+  _16 December 2025_
+
+- **Waiting for a Seraph**  
+  _23 September 2025_
+
+- **The Runner**  
+  _30 August 2025_
+
+- **The Listener – 听者**  
+  _16 June 2025_
+
+- **Buying a Time Machine**  
+  _23 March 2025_
+
+- **The Curse of the Main Square**  
+  _01 May 2025_
+
+- **The Serpent of Doubt in the Attic**  
+  _10 February 2025_
+
+---
+
+### 2024
+- **Whispers of the Unseen**  
+  _08 December 2024_
+
+---
+
+### 2023
+- **An Earthrocket Reaching Dizzying Heights**  
+  _28 December 2023_
+
+- **The Future Begins in a Bottomless Well of Gravity**  
+  _07 November 2023_
+
+---
+
+### 2017
+- **Le e-Comte de Monte-Cristo** *(French)*  
+  _25 April 2017_
+
+---
+
+## 🔐 License
+
+All stories are written by **Yolanda Muriel** and published under:
+
+**Creative Commons Attribution–NonCommercial–NoDerivs 3.0 Unported  
+(CC BY-NC-ND 3.0)**
+
+Stories are available in open access at:  
+👉 https://yolandamuriel.com/category/business-school/
