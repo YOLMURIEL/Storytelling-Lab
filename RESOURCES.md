@@ -5,8 +5,7 @@ advanced communication, and narrative thinking.
 
 ## Storytelling
 - Narrative structure
-- Emotional arc
-- Symbolism
+- Emotional pacing
 - Voice and rhythm
 
 ## Communication & Business
