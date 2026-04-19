@@ -1,7 +1,4 @@
----
-title: Stories
-layout: default
----
+
 
 
 # Resources
